@@ -4,5 +4,5 @@ Use feature_extractor.py for extracting the feature of markers in 1v1 Ludo game.
 
 I have uploaded some sample dataset which i created manually trainX contains the feature vector and trainy contains the correct marker to move based on the feature vector.
 
-Use model.py to train the model. Currently trained using decision tree.
+Use Untitled.ipynb to train the model. Currently trained using random forest.
 
